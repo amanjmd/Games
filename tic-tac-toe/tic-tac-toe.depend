@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1360732604 source:e:\cpp programs\tic-tac-toe\main.cpp
+	<iostream>
+	"tic-tac-toe.h"
+
+1363149363 source:e:\cpp programs\tic-tac-toe\print_game.cpp
+	<iostream>
+	"tic-tac-toe.h"
+
+1360699063 e:\cpp programs\tic-tac-toe\tic-tac-toe.h
+
+1360669527 source:e:\cpp programs\tic-tac-toe\turns.cpp
+	<iostream>
+
+1363148383 source:e:\cpp programs\tic-tac-toe\go.cpp
+	<iostream>
+	"tic-tac-toe.h"
+	<stdlib.h>
+
+1363148963 source:e:\cpp programs\tic-tac-toe\user_turn.cpp
+	<iostream>
+	"tic-tac-toe.h"
+
+1360736528 source:e:\cpp programs\tic-tac-toe\make2.cpp
+	<iostream>
+	"tic-tac-toe.h"
+
+1363150085 source:e:\cpp programs\tic-tac-toe\anywhere.cpp
+	<iostream>
+	"tic-tac-toe.h"
+
+1363150119 source:e:\cpp programs\tic-tac-toe\comp_turn.cpp
+	<iostream>
+	<stdlib.h>
+	"tic-tac-toe.h"
+
+1360940177 source:e:\cpp programs\tic-tac-toe\posswin.cpp
+	<iostream>
+	<stdlib.h>
+	"tic-tac-toe.h"
+
